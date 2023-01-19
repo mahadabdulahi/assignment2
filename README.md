@@ -1,4 +1,4 @@
 # assignment2
-amae mahad abdulahu husein
+ mahad abdulahu husein
 id 5555
 class
